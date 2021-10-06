@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">motion</string>
+    <string name="splash_logo">Logo</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="view_all">View All</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="search_button">Search Button</string>
+    <string name="banner_image">banner</string>
+    <string name="description">Description</string>
+    <string name="genres">Genres</string>
+    <string name="cast">Cast</string>
+    <string name="actor_name">Actor Name</string>
+    <string name="known_for">Known for</string>
+    <string name="bio">Bio</string>
+    <string name="birthday">Birthday</string>
+    <string name="card_image">Card Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">blank fragment</string>
+</resources>
